@@ -1,0 +1,129 @@
+.container {
+    max-width: 1300px;
+    width: 100%;
+    margin: 0 auto;
+}
+.header {
+    margin-left: 690px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #636060;
+}
+.ims {
+    margin-top: 20px;
+    vertical-align: bottom;
+}
+.s-1 {
+    margin-top: 30px;
+}
+.header1 {
+    margin-left: 50px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #636060;
+}
+.header2 {
+    margin-left: 52px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #636060;
+}
+.header3 {
+    margin-left: 50px;
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #636060;
+}
+.mshob {
+	position: relative;
+}
+.shvi {
+	position: absolute;
+    bottom: 290px;
+    left: 388px;
+    font-family: Helvetica;
+    font-size: 79px;
+    font-weight: 700;
+    color: #fff;
+}
+.shvili {
+    position: absolute;
+    color: #fff;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    bottom: 255px;
+    left: 555px;
+}
+.cont {
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+}
+.shead {
+    font-family: Helvetica;
+    font-size: 17px;
+    font-weight: 400;
+    color: #636060;
+    margin-bottom: 10px;
+}
+.bhead {
+    color: #010101;
+    font-family: Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.small {
+    color: #636060;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+}
+.card {
+    width: 235px;
+    margin-right: 82px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 85px;
+}
+.piccard {
+    display: inline-block;
+    margin-right: 30px;
+    width: 286px;
+    vertical-align: top;
+}
+.imgs {
+    width:285px;
+    margin-bottom: 30px;
+    margin-top: 85px;
+}
+.b {
+    margin-bottom: 10px;
+    font-family: Helvetica;
+    font-size: 19px;
+    font-weight: 400;
+    color: #343232;
+}
+.s {
+    font-family: Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    color: #636060;
+}
+.piccard2 {
+    margin-left: 320px;
+    display: inline-block;
+    margin-right: 30px;
+    width: 286px;
+    vertical-align: top; 
+    margin-bottom: 140px;  
+}
